@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋, I'm Nitesh
+#### Cloud-Focused Backend Developer | Java • Spring Boot • AWS
+![Cloud-Focused Backend Developer | Java • Spring Boot • AWS](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitesh-narwal&theme=tokyonight)
 
-<!--
-**nitesh-narwal/nitesh-narwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cloud-focused backend developer passionate about building scalable and reliable systems.
+I primarily work with Java and Spring Boot to design RESTful APIs and backend architectures. I enjoy building production-style projects and deploying them on AWS.
+Currently exploring system design, cloud architecture, and automation to build better and more reliable software.
 
-Here are some ideas to get you started:
+Skills: <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,postgres,mongodb,redis,kafka,git,github,linux,kubernetes,react" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" height="30"/> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a cloud-native Money manager built with Java, Spring Boot, and Oracal.  🔗LiveApplication:https://montrax.niteshh.me   SourceCode:https://github.com/nitesh-narwal/montrax-springboot 
+- 🌱 I’m currently learning System Design, Distributed Systems, and Advanced Cloud Architecture on AWS. 
+- 👯 I’m looking to collaborate on Open-source backend tools, cloud-native applications, and distributed systems. 
+- 💬 Ask me about Java, Spring Boot, REST APIs, Backend Architecture, and Cloud Deployments. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/nitesh-narwal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/nitesh-narwal-b896a218b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/x.com/narwalnitesh14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](niteshh.me)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/nitesh-narwal)](https://github.com/anuraghazra/github-readme-stats)
+
