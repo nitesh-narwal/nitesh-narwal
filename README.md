@@ -17,7 +17,7 @@ Skills: <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,aw
 - 💬 Ask me about Java, Spring Boot, REST APIs, Backend Architecture, and Cloud Deployments. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/nitesh-narwal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/nitesh-narwal-b896a218b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/x.com/narwalnitesh14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](niteshh.me)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nitesh-narwal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nitesh-narwal-b896a218b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/narwalnitesh14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://niteshh.me)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/nitesh-narwal)](https://github.com/anuraghazra/github-readme-stats)
 
