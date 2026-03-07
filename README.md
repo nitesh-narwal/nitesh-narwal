@@ -6,11 +6,12 @@ I'm a cloud-focused backend developer passionate about building scalable and rel
 I primarily work with Java and Spring Boot to design RESTful APIs and backend architectures. I enjoy building production-style projects and deploying them on AWS.
 Currently exploring system design, cloud architecture, and automation to build better and more reliable software.
 
-Skills: <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,postgres,mongodb,redis,kafka,git,github,linux,kubernetes,react" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" height="30"/> </p>
+Skills: <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,postgres,mongodb,redis,kafka,git,github,linux,kubernetes,react" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40"/> </p>
 
 - 🔭 I’m currently working on a cloud-native Money manager built with Java, Spring Boot, and Oracal.
 - 🔗 Live Application: https://montrax.niteshh.me
-- Source Code: https://github.com/nitesh-narwal/montrax-springboot 
+- Source Code: https://github.com/nitesh-narwal/montrax-springboot
+-  
 - 🌱 I’m currently learning System Design, Distributed Systems, and Advanced Cloud Architecture on AWS. 
 - 👯 I’m looking to collaborate on Open-source backend tools, cloud-native applications, and distributed systems. 
 - 💬 Ask me about Java, Spring Boot, REST APIs, Backend Architecture, and Cloud Deployments. 
