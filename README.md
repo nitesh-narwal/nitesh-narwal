@@ -22,15 +22,24 @@ public class Nitesh {
 ### Skills:
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,postgres,mongodb,redis,kafka,git,github,linux,kubernetes,react" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40"/> </p>
 
-- 🔭 I’m currently working on a cloud-native Money manager built with Java, Spring Boot, and Oracal.
+- 🔭 I’m currently working on a cloud-native Money manager built with Java, Spring Boot, and Oracle.
 - 🔗 Live Application: https://montrax.niteshh.me
 - Source Code: https://github.com/nitesh-narwal/montrax-springboot
   
 - 🌱 I’m currently learning System Design, Distributed Systems, and Advanced Cloud Architecture on AWS. 
 - 👯 I’m looking to collaborate on Open-source backend tools, cloud-native applications, and distributed systems. 
-- 💬 Ask me about Java, Spring Boot, REST APIs, Backend Architecture, and Cloud Deployments. 
+- 💬 Ask me about Java, Spring Boot, REST APIs, Backend Architecture, and Cloud Deployments.
 
 ---
+
+### 🧠 Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nitesh_narwal?theme=dark&border=0&radius=10&font=Karma" width="450" />
+</p>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="left">
